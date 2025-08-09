@@ -19,4 +19,4 @@ Each concept is stored in its own file or folder, with:
 - Links to relevant resources
 
 ## License
-MIT License
+[MIT License](LICENSE)
