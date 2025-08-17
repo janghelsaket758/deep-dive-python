@@ -115,8 +115,8 @@ from src.data import load_raw, split_and_save  # edit src/data.py and changes wi
 
 ## Minimal printable summary (one-liner)
 
-```text
 Put these two lines at the top of a Jupyter notebook to auto-reload edited Python modules while you iterate:
+
+```text
 %reload_ext autoreload
 %autoreload 2
-
